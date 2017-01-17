@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">temp</string>
+    <string name="Heading">Temperature Converter</string>
+    <string name="temp_hint">Enter Temperature</string>
+    <string name="c_button_title">C</string>
+    <string name="f_button_title">F</string>
+</resources>
